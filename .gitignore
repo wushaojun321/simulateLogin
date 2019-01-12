@@ -1,0 +1,6 @@
+*.pyc
+.direnv
+.envrc
+.idea
+*.png
+tmp
