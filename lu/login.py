@@ -64,6 +64,6 @@ class LuLogin(object):
 		print r.content
 
 if __name__ == '__main__':
-	lu = LuLogin("xxxxxxxx", "xxxxxxx")
+	lu = LuLogin("", "")
 	lu.run()
 
